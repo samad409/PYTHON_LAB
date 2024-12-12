@@ -1,0 +1,7 @@
+x=int(input("Enter first number : "))
+y=int(input("Enter second number : "))
+print("Sum = ",x,"+",y,"=",x+y)
+print("Difference = ",x,"-",y,"=",x-y)
+print("Multiplication = ",x,"*",y,"=",x*y)
+print("Division = ",x,"/",y,"=",x/y)
+print("Remainder = ",x,"%",y,"=",x%y)

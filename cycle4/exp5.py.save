@@ -1,0 +1,6 @@
+terms[] = int(input("Enter the numbers : "))
+result = list(map(lambda x: terms[ ** x, range(1, terms + 1)))
+
+for i in range(1, terms + 1):
+   print("2 ^",i," = ",result[i - 1])
+	
